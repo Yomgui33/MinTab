@@ -31,8 +31,8 @@ const LIST_ITEMS = [
     link: "https://forum.geekzone.fr/"
   },
   {
-    name: "r/unixporn",
-    link: "https://www.reddit.com/r/unixporn/"
+    name: "pornhub",
+    link: "https://www.pornhub.com/"
   },
   {
     name: "r/firefoxcss",
