@@ -38,4 +38,8 @@ const LIST_ITEMS = [
     name: "solitaire",
     link: "https://www.solitaire-web-app.com/"
   },
+  {
+    name: "tryhackme",
+    link: "https://tryhackme.com/"
+  },
 ]
