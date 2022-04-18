@@ -35,7 +35,7 @@ const LIST_ITEMS = [
     link: "https://www.pornhub.com/"
   },
   {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
+    name: "solitaire",
+    link: "https://www.solitaire-web-app.com/"
   },
 ]
