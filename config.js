@@ -27,8 +27,8 @@ const LIST_ITEMS = [
     link: "https://music.youtube.com"
   },
   {
-    name: "netflix",
-    link: "https://www.netflix.com/"
+    name: "geekzone",
+    link: "https://forum.geekzone.fr/"
   },
   {
     name: "r/unixporn",
