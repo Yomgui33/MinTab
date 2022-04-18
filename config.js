@@ -16,8 +16,8 @@ const ICONS = [
     link: "https://www.facebook.com/"
   },
   {
-    icon: "ri-github-fill",
-    link: "https://www.github.com/"
+    icon: "ri-newspaper-fill",
+    link: "https://news.google.com/topstories?tab=wn&hl=fr&gl=FR&ceid=FR:fr"
   }
 ]
 
